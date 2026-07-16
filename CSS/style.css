@@ -3,12 +3,24 @@ body{
     font-family: Arial;
 }
 h1{
-    background-color: blue;
+    color: blue;
     text-align: center;
+    font-size: 36px;
+    margin-bottom:5px;
 }
 h2{
-   background-color: green;
- }
- p{
+   color: blue;
+   font-size: 24px;
+}
+ .text{
     font-size: 18;
+    text-align:center;
  }
+div{
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+}
+    
